@@ -57,8 +57,14 @@
     background: #333
   }
 
-  .active2{
+  .active2 {
     border-style: solid;
+    font-size: 20px;
+  }
+
+  .eximage {
+    text-overflow: inherit;
+    text-align: center;
   }
 
   .flavor{
