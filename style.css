@@ -32,8 +32,8 @@
   
     margin: 0;
     margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 28px;
-  
     color: #eee;
     text-align: center;
   
@@ -57,8 +57,12 @@
     background: #333
   }
 
+  .active2{
+    border-style: solid;
+  }
+
   .flavor{
-    background: #333
+    background: #333;
   }
 
   .disclaimer{
