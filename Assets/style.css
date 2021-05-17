@@ -1,4 +1,9 @@
+body {
+    background-color: #00d1b2;
+}
+
 .disclaimer {
+    
     border-color: #2160c4;
     border-style: groove;
     margin-left: 30px;
